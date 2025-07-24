@@ -31,7 +31,7 @@ const Hero = () => {
                         <h1>that Deliver Results</h1>
                     </div>
                     <p className='text-white-50 md:text-xl relative z-10 pointer-events-none'>
-                            Hi, I'm Dhananjaya, a developer based in India with a passion for code.
+                            Hi, I'm Dhananjay, a developer based in India with a passion for code.
                     </p>
                     <Button className='md:w-80 md:h-16 w-60 h-12'
                     id='button'
